@@ -1,4 +1,4 @@
-# TV Launcher
+# Ataby Launcher
 
 tvOS tarzı, cam efektli Android/Google TV launcher.
 
